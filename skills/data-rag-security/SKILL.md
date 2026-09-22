@@ -1,6 +1,6 @@
 ---
 name: data-rag-security
-description: Review or design security for application data, databases, uploads, object storage, vector search, RAG pipelines, embeddings, agent memory, and multi-tenant retrieval. Use whenever an AI application stores or retrieves user data, ingests documents, performs semantic search, maintains persistent memory, or exposes files and generated artifacts.
+description: Review or design data security for AI applications, including databases, file uploads, object storage, RAG pipelines, vector search, embeddings, persistent memory, tenant isolation, data retention, retrieval authorization, prompt injection through retrieved content, and poisoned knowledge sources. Use whenever an AI application stores or retrieves user data, ingests documents, performs semantic search, maintains persistent memory, or exposes files and generated artifacts.
 ---
 
 # Data and RAG Security
